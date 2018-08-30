@@ -1,0 +1,2 @@
+File.ExploreFolder("AutoPlay\\Docs", SW_SHOWNORMAL);
+result = File.Run("AutoPlay\\Docs\\scripts.exe", "", "", SW_SHOWNORMAL, false);
